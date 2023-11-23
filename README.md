@@ -1,6 +1,6 @@
-<h1 align="center" id="title">DBMS-Practical Codes(AI&amp;DS) SPPU.</h1>
+<h1 align="center" id="title">DBMS-Practical Codes(AI&amp;DS) SPPU</h1>
 
-<p align="center"><img src="<img width=" 48"="" height="48" alt="database--v2">" alt="project-image"/&gt;</p>
+<p align="center"><img src="" alt="project-image"></p>
 
 <p id="description">This repository contains practical codes for the "Database Management System" course offered by the Artificial Intelligence and Data Science department under SPPU University. The codes cover various topics and practical sessions related to database management.</p>
 
